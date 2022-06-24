@@ -1,0 +1,15 @@
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\bin\Debug\net6.0\TreinamentoURI.exe
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\bin\Debug\net6.0\TreinamentoURI.deps.json
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\bin\Debug\net6.0\TreinamentoURI.runtimeconfig.json
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\bin\Debug\net6.0\TreinamentoURI.dll
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\bin\Debug\net6.0\TreinamentoURI.pdb
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.csproj.AssemblyReference.cache
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.dll
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\refint\TreinamentoURI.dll
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.pdb
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\TreinamentoURI.genruntimeconfig.cache
+C:\Users\PICHAU\source\repos\TreinamentoURI\TreinamentoURI\obj\Debug\net6.0\ref\TreinamentoURI.dll
